@@ -1,0 +1,190 @@
+[{
+        "id": 1,
+        "name": "David Patterson",
+        "age": 73,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 10575100,
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/David-Patterson.jpg"
+    },
+    {
+        "id": 2,
+        "name": "John Carmack",
+        "age": 51,
+        "profession": "Computer Programmer",
+        "citizenship": "United States",
+        "salary": 50000000,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Carmack.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Donald Ervin Knuth",
+        "age": 83,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 340357510,
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Donald-Ervin-Knuth.png"
+    },
+    {
+        "id": 4,
+        "name": "Guido van Rossum",
+        "age": 65,
+        "profession": "Dutch Programmer",
+        "citizenship": "United States",
+        "salary": 98057580,
+        "img": "https://gvanrossum.github.io/images/guido-headshot-2019.jpg"
+    },
+    {
+        "id": 5,
+        "name": "James Arthur Gosling",
+        "age": 66,
+        "profession": "Computer Scientist",
+        "citizenship": "Canada",
+        "salary": 56257540,
+        "img": "https://robicombi.github.io/resources/img/james.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Niklaus Wirth",
+        "age": 87,
+        "profession": "Computer Scientist",
+        "citizenship": "Switzerland",
+        "salary": 67457510,
+        "img": "https://pascaltoday.files.wordpress.com/2016/08/nw_scaled.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Alan Curtis Kay",
+        "age": 81,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 56757890,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Alan-Curtis-Kay.jpg"
+    },
+    {
+        "id": 8,
+        "name": "John McCarthy",
+        "age": 84,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 21467510,
+        "img": "https://media.wired.com/photos/59327c782a990b06268ab0b1/master/pass/john-mccarthy.png"
+    },
+    {
+        "id": 9,
+        "name": "Thomas Eugene Kurtz",
+        "age": 93,
+        "profession": "Professor of Mathematics",
+        "citizenship": "United States",
+        "salary": 73620510,
+        "img": "https://ieeecs-media.computer.org/wp-media/2018/04/27214404/thomaskurtz-e1524865462686.gif"
+    },
+    {
+        "id": 10,
+        "name": "John George Kemeny",
+        "age": 66,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 45657510,
+        "img": "https://compton.mit.edu/sites/default/files/photo-enthoven.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Grace Hopper",
+        "age": 86,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 567057510,
+        "img": "https://miro.medium.com/max/2800/1*W7QpgyGBrYpD2VsL08XdaA.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "John Backus",
+        "age": 83,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 89557510,
+        "img": "https://ethw.org/w/images/5/57/Backus.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Bill Gates",
+        "age": 65,
+        "profession": "American Business Magnate",
+        "citizenship": "United States",
+        "salary": 1798057510,
+        "img": "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Brian Kernighan",
+        "age": 73,
+        "profession": "Computer Scientist",
+        "citizenship": "Canada",
+        "salary": 892057510,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Brian-Kernighan.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ken Thompson",
+        "age": 78,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 82757510,
+        "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Ken-Thompson.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Tim Berners-Lee",
+        "age": 66,
+        "profession": "Computer Scientist",
+        "citizenship": "United Kingdom",
+        "salary": 383957510,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Tim-Berners-Lee.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Bjarne Stroustrup",
+        "age": 70,
+        "profession": "Computer Scientist",
+        "citizenship": "Denmark",
+        "salary": 33957510,
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Bjarne-Stroustrup.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Linus Torvalds",
+        "age": 51,
+        "profession": "Computer Scientist",
+        "citizenship": "Finland",
+        "salary": 38327510,
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Linus-Torvalds.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Dennis Ritchie",
+        "age": 70,
+        "profession": "Computer Scientist",
+        "citizenship": "United States",
+        "salary": 78917510,
+        "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Dennis-Ritchie.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Alan Matheson Turing",
+        "age": 42,
+        "profession": "Computer Scientist",
+        "citizenship": "United Kingdom",
+        "salary": 289357510,
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Alan-Mathison-Turing.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Mark Zuckerberg",
+        "age": 37,
+        "profession": "Computer Programmer",
+        "citizenship": "United States",
+        "salary": 297347514,
+        "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/125B3/production/_107178157_178151.jpg"
+    }
+]
